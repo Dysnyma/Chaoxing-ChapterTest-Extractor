@@ -144,7 +144,7 @@
 
 ## 开源地址
 
-GitHub: [https://github.com/chaoxing-test-extractor](https://github.com/chaoxing-test-extractor)
+GitHub: [https://github.com/Dysnyma/Chaoxing-ChapterTest-Extractor](https://github.com/Dysnyma/Chaoxing-ChapterTest-Extractor)
 
 ---
 
