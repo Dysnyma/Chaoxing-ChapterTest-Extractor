@@ -4,6 +4,7 @@
 // @version      1.1.0
 // @description  自动提取学习通课程所有章节测验的题目和答案，支持字体解密、TXT/JSON导出
 // @author       CKC
+// @license      MIT
 // @match        *://mooc2-ans.chaoxing.com/mooc2-ans/mycourse/stu*
 // @match        *://mooc1.chaoxing.com/mooc-ans/knowledge/cards*
 // @match        *://mooc1.chaoxing.com/mooc-ans/work/selectWorkQuestion*
