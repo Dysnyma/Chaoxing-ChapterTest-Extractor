@@ -1,0 +1,17 @@
+# 测试页面
+*.html
+*.htm
+
+# 导出结果
+*.xlsx
+
+# 模板和临时文件
+模板/
+直接保存页面/
+
+# Claude Code 配置
+.claude/
+
+# 系统文件
+.DS_Store
+Thumbs.db
